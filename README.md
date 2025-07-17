@@ -1,5 +1,5 @@
 # WMS-SKU_MSKU_Project
-I created a Streamlit app to map SKU → MSKU
+Sub: created a Streamlit app to map SKU → MSKU
 
 # 📦 Warehouse Management System (WMS) - MVP
 
@@ -9,7 +9,6 @@ I created a Streamlit app to map SKU → MSKU
 - Python (Pandas, FuzzyWuzzy)
 - Streamlit
 - Baserow (as relational DB frontend)
-- (Optional) OpenAI GPT API for Text-to-SQL
 
 ## 🎯 Features
 - CSV Upload for sales data
@@ -17,15 +16,13 @@ I created a Streamlit app to map SKU → MSKU
 - Handles unmapped SKUs, combo products
 - Cleaned data export
 - Baserow integration for relational view
-- (Optional) AI-powered SQL querying
 
 ## 📽️ Loom Video
-🔗 [Paste your Loom video link here]
+🔗 [https://www.loom.com/share/a9f21016746f4562a75ffd41333d86fb]
 
 ## 🔗 Live Tools
-- 📁 Google Drive: [Paste drive link]
-- 📊 Baserow DB: [Paste baserow view link]
-- 📎 Cleaned Sample File: `cleaned_sales.csv`
+- 📊 Baserow DB: [https://baserow.io/database/258607/table/610694/1142825]
+- 📎 Cleaned Sample File: `sku_msku_mapping_cleaned`
 
 ## 🚀 How to Run the App
 ```bash
