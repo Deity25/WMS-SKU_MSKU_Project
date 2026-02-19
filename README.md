@@ -1,10 +1,7 @@
 # WMS-SKU_MSKU_Project
 Sub: created a Streamlit app to map SKU → MSKU
-
 # 📦 Warehouse Management System (WMS) - MVP
-
 ## 👨‍💻 Developed by: Gaurishankar Vhadle
-
 ## 🧰 Tech Stack
 - Python (Pandas, FuzzyWuzzy)
 - Streamlit
