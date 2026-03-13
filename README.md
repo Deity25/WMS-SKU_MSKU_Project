@@ -6,7 +6,6 @@ Sub: created a Streamlit app to map SKU → MSKU
 - Python (Pandas, FuzzyWuzzy)
 - Streamlit
 - Baserow (as relational DB frontend)
-
 ## 🎯 Features
 - CSV Upload for sales data
 - SKU → MSKU Mapping with fuzzy matching
